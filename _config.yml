@@ -29,3 +29,5 @@ kramdown:
     - smart
   enable_coderay: true
   syntax_highlighter: rouge
+
+theme: jekyll-theme-cayman
